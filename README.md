@@ -7,12 +7,8 @@ El propósito de este repositorio fue para realizar una tarea, la cual trata de 
 + Sirve para repasar y practicar.
 + Se trata de un repositorio de práctica para una tarea, los cambios realizados no afectarán mucho en comparación a otras sitiaciones
 
-## Comandos utilizados
-`git push` Con este comando todos los cambios realizados de manera local podremos añadirlos a GitHub.
-
-`git add .` Añadimos los cambios para comitearlos.
-
-`git commit` Comiteamos los cambios (se trata de distintas versiones de nuestro repositorio).
+## Para que sirve
+Tenemos un método que genera 20 números aleatorios del 1 al 10.
 
 > [!NOTE]
 > Debido a que se trata de una mera tarea es recomendable no añadir ficheros de alta importancia en el repositorio.
